@@ -1,7 +1,7 @@
 <p align="center"><img width="45%" src="CoolLogo.png"></p>
 (@@TODO You need to update the below URL in the markdown file to point at your repository. Also the below must be on one line, otherwise it'll have a line break which doesn't look as nice.)
 
-# MathUtils [![Linux (GCC)](https://github.com/7thfleet/CMake_Example/actions/workflows/linux.yml/badge.svg)](https://github.com/7thfleet/CMake_Example/actions/workflows/linux.yml) [![Windows (MSVC)](https://github.com/7thfleet/CMake_Example/actions/workflows/windows.yml/badge.svg)](https://github.com/7thfleet/CMake_Example/actions/workflows/windows.yml) [![MacOS (AppleClang)](https://github.com/7thfleet/CMake_Example/actions/workflows/macos.yml/badge.svg)](https://github.com/7thfleet/CMake_Example/actions/workflows/macos.yml)
+# MathUtils [![Linux (GCC)](https://github.com/7thfleet/YourRepo/actions/workflows/linux.yml/badge.svg)](https://github.com/7thfleet/YourRepo/actions/workflows/linux.yml) [![Windows (MSVC)](https://github.com/7thfleet/YourRepo/actions/workflows/windows.yml/badge.svg)](https://github.com/7thfleet/YourRepo/actions/workflows/windows.yml) [![MacOS (AppleClang)](https://github.com/7thfleet/YourRepo/actions/workflows/macos.yml/badge.svg)](https://github.com/7thfleet/YourRepo/actions/workflows/macos.yml)
 
 (@@TODO: A tldr of your project. Something like:)  
 #### MathUtils is a cross platform @@TODO()-licensed C++14 application & library for generating the dot product of two `std::vector`s.
@@ -43,13 +43,13 @@ Note: Whenever `BUILD_TYPE` is used, replace with `Debug`, `Release`, `RelWithDe
 1. ### Clone the repository:   
 (@@TODO Change)  
 ```
-git clone git@github.com:7thfleet/CMake_Example.git
+git clone git@github.com:7thfleet/YourRepo.git
 ```
 
 2. ### `cd` into the directory:  
 (@@TODO Change)  
 ```
-cd CMake_Example
+cd YourRepo
 ```
 
 3. ### Generate the build files:  
