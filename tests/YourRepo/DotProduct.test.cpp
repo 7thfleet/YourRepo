@@ -1,10 +1,10 @@
-#include "MathUtils/DotProduct.hpp"
+#include "YourRepo/DotProduct.hpp"
 
 #include <doctest/doctest.h>
 
 #include <vector>
 
-using namespace MathUtils;
+using namespace YourRepo;
 
 TEST_CASE("DotProduct | Length Validation"){
     std::vector<int> lenThree = {1, 2, 3};

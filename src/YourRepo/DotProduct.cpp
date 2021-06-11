@@ -1,8 +1,8 @@
-#include "MathUtils/DotProduct.hpp"
+#include "YourRepo/DotProduct.hpp"
 
 #include <stdexcept>
 
-int MathUtils::DotProduct(const std::vector<int>& a, const std::vector<int>& b){
+int YourRepo::DotProduct(const std::vector<int>& a, const std::vector<int>& b){
     if(a.size() != b.size()){
         throw std::invalid_argument("vector a and b must have the same length");
     }

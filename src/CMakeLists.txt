@@ -1,4 +1,4 @@
-add_subdirectory(MathUtils)
-target_sources(MathUtils-bin PRIVATE
+add_subdirectory(YourRepo)
+target_sources(YourRepo-bin PRIVATE
     main.cpp
 )
